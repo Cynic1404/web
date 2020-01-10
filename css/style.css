@@ -420,6 +420,7 @@ main{
 .contact_fields .button{
 	width: 100%;
 	margin-bottom: 50px;
+	border:0;
 }	
 
 
